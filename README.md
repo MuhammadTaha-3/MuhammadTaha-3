@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Muhammad Taha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Learning+Full-Stack+Development;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js;Building+Modern+Full-Stack+Applications;React.js+%7C+Next.js+%7C+TypeScript;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MuhammadTaha-3">
-    <img src="https://img.shields.io/badge/GitHub-MuhammadTaha--3-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-MuhammadTaha--3-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhmmad-taha">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tahaqureshi0033@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,13 +24,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Developer** and **BS Computer Science student at Ilma University**, passionate about building modern, responsive, and user-friendly web applications.
+I'm a **MERN Stack Developer** and **BS Computer Science student at Ilma University**, passionate about building modern, responsive, and scalable web applications.
 
-I mainly work with **React.js, Next.js, TypeScript, and modern UI technologies**, while currently expanding my knowledge in backend development and full-stack application architecture.
+I enjoy turning ideas into functional digital experiences using modern frontend technologies, REST APIs, databases, and full-stack architecture.
 
 ```javascript
 const taha = {
-    role: "Frontend Developer",
+    role: "MERN Stack Developer",
+
     education: "BS Computer Science",
     university: "Ilma University",
 
@@ -43,20 +44,21 @@ const taha = {
         "Next.js"
     ],
 
-    styling: [
-        "Tailwind CSS",
-        "SCSS",
-        "Bootstrap"
-    ],
-
     backend: [
         "Node.js",
+        "Express.js",
         "REST APIs"
     ],
 
     databases: [
         "MongoDB",
         "Firebase"
+    ],
+
+    styling: [
+        "Tailwind CSS",
+        "SCSS",
+        "Bootstrap"
     ],
 
     tools: [
@@ -67,7 +69,13 @@ const taha = {
         "npm"
     ],
 
-    currentlyLearning: "Full-Stack Development",
+    currentlyLearning: [
+        "Advanced Backend Development",
+        "Authentication",
+        "API Architecture",
+        "Full-Stack Development"
+    ],
+
     goal: "Become a Strong Full-Stack Developer"
 };
 ```
@@ -75,22 +83,44 @@ const taha = {
 ### 🚀 What I Do
 
 * 🎓 BS Computer Science Student at **Ilma University**
-* 💻 Build modern and responsive web applications
+* 💻 Build modern and responsive full-stack web applications
 * ⚛️ Develop applications using **React.js & Next.js**
-* 🟦 Work with **TypeScript & JavaScript**
-* 🎨 Create clean interfaces using **Tailwind CSS, SCSS & Bootstrap**
-* 🔌 Learning **Node.js, REST APIs & MongoDB**
-* 🧩 Building real-world projects to improve my development skills
-* 🌱 Continuously learning and exploring modern web technologies
+* 🟢 Build backend services with **Node.js & Express.js**
+* 🗄️ Work with **MongoDB & Firebase**
+* 🟦 Use **TypeScript & JavaScript** for scalable applications
+* 🎨 Create modern interfaces with **Tailwind CSS, SCSS & Bootstrap**
+* 🔌 Build and integrate **REST APIs**
+* 🌱 Continuously improve my full-stack development skills
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ MERN Stack
 
-### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+<p align="center">
+  <b>MongoDB</b> &nbsp; • &nbsp;
+  <b>Express.js</b> &nbsp; • &nbsp;
+  <b>React.js</b> &nbsp; • &nbsp;
+  <b>Node.js</b>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 ### 🎨 Styling & UI
@@ -99,10 +129,10 @@ const taha = {
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,framer" />
 </p>
 
-### ⚙️ Backend & Database
+### 🟢 Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 🔧 Tools
@@ -122,7 +152,7 @@ const taha = {
 
 ### 👟 Shoes Head
 
-A premium footwear e-commerce platform focused on providing a modern and responsive shopping experience.
+A premium footwear e-commerce platform with a modern and responsive shopping experience.
 
 **Tech Stack**
 
@@ -162,7 +192,7 @@ A modern banking interface featuring dashboards, transactions, money transfers, 
 
 ### 🎬 CineVerse
 
-A modern movie discovery platform designed for browsing, exploring and discovering movies.
+A modern movie discovery platform designed for browsing and exploring movies.
 
 **Tech Stack**
 
@@ -178,7 +208,7 @@ A modern movie discovery platform designed for browsing, exploring and discoveri
 
 ### 🍔 FoodHolic
 
-A modern food website with an interactive, responsive and user-friendly interface.
+A modern food website with an interactive and responsive user interface.
 
 **Tech Stack**
 
@@ -207,27 +237,28 @@ A responsive clothing e-commerce platform with modern product interfaces and sho
 
 ```text
 Advanced React.js
-Next.js App Router
+Next.js
 TypeScript
 Node.js
+Express.js
 REST APIs
 MongoDB
 Authentication & Authorization
-Full-Stack Application Architecture
+Backend Architecture
+Full-Stack Application Development
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Frontend Development        ████████████████████
-React.js & Next.js          ████████████████████
-TypeScript                  ███████████████████░
-UI / UX Development         ███████████████████░
-Backend Development         ███████████████░░░░░
-Database & APIs             ███████████████░░░░░
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Development-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Development-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
@@ -239,7 +270,7 @@ I believe the best way to become a better developer is to keep building real pro
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTaha-3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
@@ -247,7 +278,7 @@ I believe the best way to become a better developer is to keep building real pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTaha-3&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadTaha-3&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -255,16 +286,21 @@ I believe the best way to become a better developer is to keep building real pro
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:tahaqureshi0033@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tahaqureshi0033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://github.com/MuhammadTaha-3">
-    <img src="https://img.shields.io/badge/GitHub-MuhammadTaha--3-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhmmad-taha">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="mailto:tahaqureshi0033@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-tahaqureshi0033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/MuhammadTaha-3">
+<img src="https://img.shields.io/badge/GitHub-MuhammadTaha--3-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhmmad-taha">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
